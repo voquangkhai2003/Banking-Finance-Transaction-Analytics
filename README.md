@@ -134,11 +134,15 @@ Banking_and_Finance_Project.pbix
 
 ## 📸 Dashboard Preview
 
-> *(Add screenshots of each report page here)*
+<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 25 55" src="https://github.com/user-attachments/assets/6450acbe-da16-4fba-a727-77a96e1e49cc" />
+
+<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 26 07" src="https://github.com/user-attachments/assets/c5424dd2-ad2c-4083-a4f8-02dbabf022ba" />
+
+<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 26 56" src="https://github.com/user-attachments/assets/412af080-8284-4a18-a0b9-a9ddce9fbdf3" />
 
 | Page | Preview |
 |---|---|
-| Transaction Overview | `screenshots/01_transaction_overview.png` |
+| Transaction Overview | `<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 25 55" src="https://github.com/user-attachments/assets/f7a14373-6e10-4b93-9d79-d05fe16f4a4a" />` |
 | Customer & Cards | `screenshots/02_customer_cards.png` |
 | Spending Categories | `screenshots/03_spending_categories.png` |
 
