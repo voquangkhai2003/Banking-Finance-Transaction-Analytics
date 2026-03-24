@@ -142,7 +142,7 @@ Banking_and_Finance_Project.pbix
 
 | Page | Preview |
 |---|---|
-| Transaction Overview | `<img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 25 55" src="https://github.com/user-attachments/assets/f7a14373-6e10-4b93-9d79-d05fe16f4a4a" />` |
+| Transaction Overview | <img width="1680" height="1050" alt="Screenshot 2026-03-24 at 08 25 55" src="https://github.com/user-attachments/assets/f7a14373-6e10-4b93-9d79-d05fe16f4a4a" /> |
 | Customer & Cards | `screenshots/02_customer_cards.png` |
 | Spending Categories | `screenshots/03_spending_categories.png` |
 
